@@ -1,5 +1,6 @@
 
 # hello-world
 hello world repository for git tutorial
-# My Project
+تم إضافة وصف قصير للمشروع ولشرح كيفية عمل الدمج.
+
  
